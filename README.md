@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [BIBEK BORGOHIAN]
+# 👋 Hi, I'm BIBEK BORGOHIAN
 
 > Full-stack developer passionate about building AI-powered, real-world products.
 
@@ -42,7 +42,8 @@ I'm a self-taught developer who loves turning ideas into working software. Curre
 ---
 
 ## 📫 Connect With Me
-[![Email] bibekborgohain111@gmail.com
+Email : bibekborgohain111@gmail.com
+phone : +91 6003814374
 
 ---
 
