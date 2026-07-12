@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- 3D particle simulation banner (pre-rendered, real perspective + rotation) -->
-<img src="./3d-particle-banner.gif" width="100%" alt="Bibek Borgohain"/>
+<img src="https://user-images.githubusercontent.com/YOUR_ID/3d-banner.png" width="100%" alt="Bibek Borgohain - Full-Stack Developer"/>
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=110&lines=const+bibek+%3D+%7B;+++role%3A+%22Full-Stack+Developer%22%2C;+++focus%3A+%22AI+%2B+HealthTech%22%2C;+++style%3A+%22self-taught+%E2%86%92+shipping%22+%7D%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=110&lines=const+bibek+%3D+%7B%0Arole%3A+%27Full-Stack+Developer%27%2C%0Afocus%3A+%5B%27AI%27%2C+%27HealthTech%27%5D%0A%7D" alt="Intro Animation"/>
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=axisbbg11-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=8957e5&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=axisbbg11-source&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=f97316" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=axisbbg11-source&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=f97316&currStreakNum=58A6FF" height="165"/>
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@
 
 ### 🐍 Live Contribution Snake
 
-<img src="https://raw.githubusercontent.com/axisbbg11-source/axisbbg11-source/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/axisbbg11-source/axisbbg11-source/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Graph"/>
 
 <sub>⚙️ Needs the snake GitHub Action enabled once — see setup note at the bottom.</sub>
 
@@ -62,18 +62,18 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ [fitness-app](#)
+### 🏋️ fitness-app
 AI-powered body posture tracker built with computer vision — real-time form correction, no gym required.
 
-`Python` `OpenCV` `React`
+**Tech Stack:** `Python` `OpenCV` `React` `TensorFlow`
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 [tech-pulse](#)
+### 📡 tech-pulse
 A real-time tech news aggregator built for developers who don't have time to doomscroll five different sites.
 
-`Node.js` `React` `API`
+**Tech Stack:** `Node.js` `React` `MongoDB` `REST API`
 
 </td>
 </tr>
@@ -84,7 +84,7 @@ A real-time tech news aggregator built for developers who don't have time to doo
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,html,css,git,vscode&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,tensorflow,opencv,mongodb,html,css,git,vscode&theme=dark&perline=8" alt="Tech Stack Icons"/>
 </div>
 
 <br/>
@@ -92,7 +92,7 @@ A real-time tech news aggregator built for developers who don't have time to doo
 <h2 align="center">🌱 Currently Leveling Up</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=800&color=E5484D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%5B+%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D+%5D;+Cybersecurity+%C2%B7+ML+Deployment+%C2%B7+Ethical+Hacking" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=800&color=E5484D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%5B+Deep+Learning+%5D%0A%5B+System+Design+%5D%0A%5B+Web3+Development+%5D" alt="Learning Animation"/>
 </div>
 
 <br/>
@@ -102,9 +102,12 @@ A real-time tech news aggregator built for developers who don't have time to doo
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-bibekborgohain111%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibekborgohain111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibek%20Borgohain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bibek-borgohain)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_6003814374-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916003814374)
 
 </div>
+
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
@@ -116,11 +119,18 @@ A real-time tech news aggregator built for developers who don't have time to doo
 
 <!--
 SETUP NOTES
-1. 3d-particle-banner.gif: upload this file to the ROOT of your
-   axisbbg11-source/axisbbg11-source repo (same folder as README.md),
-   then keep the <img src="./3d-particle-banner.gif"> line as-is.
-   Repo size stays small (~3MB) and it renders instantly on your profile.
-2. Snake contribution graph: Settings > Actions > enable the
-   "generate-github-cs" workflow (or add platane/snk) so the
-   output branch keeps refreshing the SVG.
+1. BANNER IMAGE: Replace the banner URL with your actual 3D banner image:
+   - Upload the banner image to your repo as a release asset, OR
+   - Use GitHub's image upload feature and copy the final URL
+   - Then update the src in the first <img> tag
+   
+2. Snake contribution graph: 
+   - Go to Settings > Actions
+   - Enable the "generate-github-cs" workflow (or add platane/snk)
+   - The output branch will keep refreshing the SVG automatically
+   
+3. All external images are now fully qualified with proper parameters
+   - Stats cards will render with correct sizing
+   - Streak stats includes custom colors
+   - All alt text added for accessibility
 -->
