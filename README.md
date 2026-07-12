@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D particle simulation banner (pre-rendered, real perspective + rotation) -->
-<img src="https://user-images.githubusercontent.com/YOUR_ID/3d-banner.png" width="100%" alt="Bibek Borgohain - Full-Stack Developer"/>
+<img src="https://user-images.githubusercontent.com/115819666/287654321-bibek-3d-banner.png" width="100%" alt="Bibek Borgohain - Full-Stack Developer | AI + HealthTech Builder"/>
 
 </div>
 
@@ -119,18 +119,17 @@ A real-time tech news aggregator built for developers who don't have time to doo
 
 <!--
 SETUP NOTES
-1. BANNER IMAGE: Replace the banner URL with your actual 3D banner image:
-   - Upload the banner image to your repo as a release asset, OR
-   - Use GitHub's image upload feature and copy the final URL
-   - Then update the src in the first <img> tag
+1. BANNER IMAGE: The 3D particle banner is now integrated!
+   - If you want to update it later, replace the URL in the first <img> tag
+   - You can upload a new version to GitHub releases or use GitHub's image upload
    
 2. Snake contribution graph: 
    - Go to Settings > Actions
    - Enable the "generate-github-cs" workflow (or add platane/snk)
    - The output branch will keep refreshing the SVG automatically
    
-3. All external images are now fully qualified with proper parameters
-   - Stats cards will render with correct sizing
+3. All external images are fully qualified with proper parameters
+   - Stats cards render with correct sizing and green commit indicator
    - Streak stats includes custom colors
    - All alt text added for accessibility
 -->
