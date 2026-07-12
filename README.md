@@ -1,52 +1,116 @@
-# 👋 Hi, I'm BIBEK BORGOHIAN
+<div align="center">
 
-> Full-stack developer passionate about building AI-powered, real-world products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=BIBEK%20BORGOHAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%2B%20Health-Tech%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-I'm a self-taught developer who loves turning ideas into working software. Currently focused on health tech and information tools.
+</div>
 
----
+<div align="center">
 
-## 🚀 What I'm Working On
+```
+> whoami
+```
 
-- 🏋️ **[fitness-app](https://github.com/axisbbg11-source/fitness-app)** — AI-powered body posture tracker using computer vision
-- 📡 **[tech-pulse](https://github.com/axisbbg11-source/tech-pulse)** — Real-time tech news aggregator for developers
+</div>
 
----
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=const+bibek+%3D+%7B;+++role%3A+%22Full-Stack+Developer%22%2C;+++focus%3A+%22AI+%2B+HealthTech%22%2C;+++style%3A+%22self-taught+%E2%86%92+shipping%22+%7D%3B" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/status-shipping_things-2ea043?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/currently-open_to_collab-8957e5?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/based_in-India-f97316?style=for-the-badge&labelColor=0d1117"/>
+</div>
+
+<br/>
+
+## 🧬 Terminal Snapshot
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=170&lines=%24+git+log+--author%3D%22Bibek%22+--oneline;+e4a1c9+Built+AI+posture-tracking+with+computer+vision;+9b2f01+Shipped+real-time+dev+news+aggregator;+3d88ad+Learning%3A+cybersecurity+%2B+ML+deployment;+%24+echo+%22Turning+ideas+into+working+software+since+day+1%22" />
+</div>
+
+<br/>
+
+## 🚀 What I'm Building
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🏋️ [fitness-app](#)
+AI-powered body posture tracker built with computer vision — real-time form correction, no gym required.
+
+`Python` `OpenCV` `React`
+
+</td>
+<td width="50%">
+
+### 📡 [tech-pulse](#)
+A real-time tech news aggregator built for developers who don't have time to doomscroll five different sites.
+
+`Node.js` `React` `API`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,html,css,git,vscode&theme=dark&perline=8"/>
+</div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axisbbg11-source&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axisbbg11-source&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=axisbbg11-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=axisbbg11-source&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axisbbg11-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+</div>
 
-## 🌱 Currently Learning
+<br/>
 
-- cyber security 
-- Machine Learning model deployment
-- Ethical hacking
+## 🐍 Contribution Snake
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/axisbbg11-source/axisbbg11-source/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-## 📫 Connect With Me
-Email : bibekborgohain111@gmail.com
-phone : +91 6003814374
+<sub>⚙️ Snake animation needs a one-time GitHub Action setup — see note below.</sub>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=axisbbg11-source&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+## 🌱 Currently Leveling Up
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=800&color=E5484D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%5B+%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D+%5D;+Cybersecurity+%C2%B7+ML+Deployment+%C2%B7+Ethical+Hacking" />
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-bibekborgohain111%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibekborgohain111@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_6003814374-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916003814374)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=axisbbg11-source&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</div>
